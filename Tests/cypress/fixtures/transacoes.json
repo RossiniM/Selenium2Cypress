@@ -1,0 +1,37 @@
+[
+  {
+    "data": "2019-01-01",
+    "quantidade": 21,
+    "valor": 1000
+  },
+  {
+    "data": "2019-02-01",
+    "quantidade": 28,
+    "valor": 1000
+  },
+  {
+    "data": "2019-03-01",
+    "quantidade": 24,
+    "valor": 1500
+  },
+  {
+    "data": "2019-02-15",
+    "quantidade": 13,
+    "valor": 1000
+  },
+  {
+    "data": "2019-05-11",
+    "quantidade": 25,
+    "valor": 1000
+  },
+  {
+    "data": "2019-08-13",
+    "quantidade": 64,
+    "valor": 1000
+  },
+  {
+    "data": "2019-09-12",
+    "quantidade": 78,
+    "valor": 1000
+  }
+]
